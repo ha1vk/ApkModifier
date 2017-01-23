@@ -56,6 +56,10 @@ ApkModifier 使用中常见问题:
 1.添加土耳其语言支持<br/>
 2.修复res资源混淆时出现的错误<br/>
 
+[v1.4.3](http://pan.baidu.com/s/1i5hu5sp)<br/>
+1.添加俄语支持<br/>
+2.修复一个小bug<br/>
+
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
