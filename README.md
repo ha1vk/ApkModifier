@@ -52,7 +52,7 @@ ApkModifier 使用中常见问题:
 7.增加词典管理，可以制作自己的词典以及编辑已有词典，支持翻译后的内容保存到词典<br/>
 8.其他一些细小优化<br/>
 
-[v1.4.2](http://pan.baidu.com/s/1qYsB6yS)<br/>
+[v1.4.2](http://pan.baidu.com/s/1dF7QZdv)<br/>
 1.添加土耳其语言支持<br/>
 2.修复res资源混淆时出现的错误<br/>
 
