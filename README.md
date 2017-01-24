@@ -60,6 +60,10 @@ ApkModifier 使用中常见问题:
 1.添加俄语支持<br/>
 2.修复一个小bug<br/>
 
+[v1.4.4](http://pan.baidu.com/s/1ckW6Do)<br/>
+1.添加波斯语支持<br/>
+2.arsc解析速度提升30%左右<br/>
+
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
