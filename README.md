@@ -75,7 +75,7 @@ ApkModifier 使用中常见问题:
 4.字符串常量池资源搜索支持按id搜索<br/>
 5.其他一些细小优化<br/>
 
-[1.5.2](http://pan.baidu.com/s/1o8M1TUU)<br/>
+[1.5.2](http://pan.baidu.com/s/1miK4iRQ)<br/>
 1.修复部分机型访问词典数据库时内存泄漏的问题<br/>
 
 作者的其他作品
