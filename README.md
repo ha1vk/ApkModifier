@@ -86,6 +86,10 @@ ApkModifier 使用中常见问题:
 3.翻译语言增加土耳其语言支持<br/>
 4.听说安卓6.0不能访问sd卡，特地看了一下<br/>
 
+[v1.6.2](http://pan.baidu.com/s/1hsp4tec)<br/>
+1.添加谷歌(Google)翻译<br/>
+2.添加维吾尔语言包<br/>
+
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
