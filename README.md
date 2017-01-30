@@ -90,6 +90,11 @@ ApkModifier 使用中常见问题:
 1.添加谷歌(Google)翻译<br/>
 2.添加维吾尔语言包<br/>
 
+[v1.6.3](http://pan.baidu.com/s/1dFmmAnZ)<br/>
+1.优化谷歌翻译速度<br/>
+2.翻译支持的语言增加到35种<br/>
+3.修复自定义翻译账号不能用的问题<br/>
+
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
