@@ -98,6 +98,11 @@ ApkModifier 使用中常见问题:
 [v1.6.4](http://pan.baidu.com/s/1bpEHceV)<br/>
 1.压缩包浏览根据文件的前几个字节来判断是否是图片或xml,方便对付资源混淆后的软件<br/>
 
+[v1.7](http://pan.baidu.com/s/1bp3RJ6B)<br/>
+1.软件体积再次减小了50KB左右，我们的目标是追求小巧强大<br/>
+2.加强res资源混淆算法<br/>
+3.解决浏览大图片时出现的内存溢出(OOM)情况<br/>
+
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
