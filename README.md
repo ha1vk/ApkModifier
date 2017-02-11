@@ -108,6 +108,9 @@ ApkModifier 使用中常见问题:
 2.修复字符串常量池编辑框不能多行的问题<br/>
 3.修复其他一些细小bug<br/>
 
+[v1.7.3](http://pan.baidu.com/s/1gfkNq7p)<br/>
+1.修复字符串常量池遇到非法颜色代码时崩溃<br/>
+
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
