@@ -114,6 +114,10 @@ ApkModifier 使用中常见问题:
 [v1.7.4](http://pan.baidu.com/s/1c2d1N1Y)<br/>
 1.修复词典翻译到一半时数据库访问内存溢出而导致崩溃的问题<br/>
 
+[v1.8](http://pan.baidu.com/s/1kV9bXCN)<br/>
+1.克隆支持自定义包名<br/>
+2.添加西班牙语言<br/>
+
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
