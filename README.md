@@ -138,6 +138,10 @@ ApkModifier 使用中常见问题:
 [v2.1](http://pan.baidu.com/s/1c2w0Hva)<br/>
 1.修复一个小bug<br/>
 
+[v2.2](http://pan.baidu.com/s/1geArQYR)<br/>
+1.修复部分apk混淆后停止运行的问题<br/>
+2.更新语言<br/>
+
 帮助翻译
 ==========================================================
 如果你愿意，你可以帮作者翻译，语言文件在这[点击下载](http://pan.baidu.com/s/1qYCXj8C)
