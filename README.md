@@ -165,6 +165,10 @@ ApkModifier 使用中常见问题:
 [v2.5.3](http://pan.baidu.com/s/1qXTGTMO)<br/>
 1.修复部分崩溃问题<br/>
 
+[v2.6](http://pan.baidu.com/s/1gfj85rH)<br/>
+1.添加APK权限编辑<br/>
+2.APK属性查看添加了签名信息的查看<br/>
+
 帮助翻译
 ==========================================================
 如果你愿意，你可以帮作者翻译，语言文件在这[点击下载](http://pan.baidu.com/s/1jHJdFHs)
