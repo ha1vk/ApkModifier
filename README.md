@@ -186,7 +186,7 @@ ApkModifier 使用中常见问题:
 [v2.9.2](http://pan.baidu.com/s/1skRa12H)<br/>
 1.修复部分apk签名时出现的CRC错误<br/>
 
-[v2.9.2](http://pan.baidu.com/s/1bppjCrd)<br/>
+[v3.0](http://pan.baidu.com/s/1bppjCrd)<br/>
 1.用户界面细节优化。流畅度优化<br/>
 2.决绝文件图标有时错乱的问题<br/>
 3.再次修复部分apk签名时出现的CRC错误<br/>
