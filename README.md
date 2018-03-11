@@ -9,7 +9,7 @@ HaGeSea@outlook.com<br/>
 支付宝(AliPay)<br/>
 ![AliPay](https://thumbnail0.baidupcs.com/thumbnail/be6383fde43bc6bd1251171fd08f9862?fid=1194832007-250528-1111852083464621&time=1520740800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-VhrpYNaiWI1eW0XBiSYr%2Fmk5P3k%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=1612316206306429248&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)<br/>
 微信(WeiChat Pay)<br/>
-![WeChatPay](https://github.com/seaase/ApkModifier/blob/master/weichat.png)<br/>
+![WeChatPay](https://thumbnail0.baidupcs.com/thumbnail/25471170a70647b268fa4258304b2393?fid=1194832007-250528-377790632100171&time=1520740800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-woIAnkI4qYvgnU6CC9vBm5Ee3bM%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=1612343048786495256&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)<br/>
 如果愿意，你可以对我捐赠，我也会更加有动力来开发和完善本软件。<br/>
 如果没有这些，你可以下载[ApkModifier PRO ](http://pan.baidu.com/s/1eRFakvw)安装后打开，点击广告。以此来支持开发者<br/>
 
