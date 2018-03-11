@@ -225,13 +225,13 @@ ApkModifier 使用中常见问题:
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
 
-关于作者
+关于作者(About)
 ===========================================================
 QQ:2801045898<br/>
 E-Mail:2801045898@qq.com<br/>
 HaGeSea@outlook.com<br/>
 
-支持开发
+捐赠(Donate)
 ===========================================================
 ![AliPay](https://github.com/seaase/ApkModifier/blob/master/alipay.png)<br/>
 ![AliPay](https://github.com/seaase/ApkModifier/blob/master/weichat.png)<br/>
