@@ -232,9 +232,10 @@ E-Mail:2801045898@qq.com<br/>
 HaGeSea@outlook.com<br/>
 
 支持开发
-============================================================
-支付宝：18705874746<br/>
-微信：18705874746<br/>
+===========================================================
+捐赠
+[![AliPay](https://github.com/seaase/ApkModifier/blob/master/alipay.png)]
+[![AliPay](https://github.com/seaase/ApkModifier/blob/master/weichat.png)]
 如果愿意，你可以对我捐赠，我也会更加有动力来开发和完善本软件。<br/>
 如果没有这些，你可以下载[ApkModifier PRO ](http://pan.baidu.com/s/1eRFakvw)安装后打开，点击广告。以此来支持开发者<br/>
 
