@@ -1,3 +1,16 @@
+关于作者(About)
+===========================================================
+QQ:2801045898<br/>
+E-Mail:2801045898@qq.com<br/>
+HaGeSea@outlook.com<br/>
+
+捐赠(Donate)
+===========================================================
+![AliPay](https://github.com/seaase/ApkModifier/blob/master/alipay.png)<br/>
+![AliPay](https://github.com/seaase/ApkModifier/blob/master/weichat.png)<br/>
+如果愿意，你可以对我捐赠，我也会更加有动力来开发和完善本软件。<br/>
+如果没有这些，你可以下载[ApkModifier PRO ](http://pan.baidu.com/s/1eRFakvw)安装后打开，点击广告。以此来支持开发者<br/>
+
 ApkModifier词典文件
 ==========================================================================================
 [英汉词典](https://raw.githubusercontent.com/seaase/ApkModifier/master/EN-CN.db)
@@ -224,17 +237,3 @@ ApkModifier 使用中常见问题:
 作者的其他作品
 ==========================================================
 [ApkCrack](https://seaase.github.io/ApkCrack/)
-
-关于作者(About)
-===========================================================
-QQ:2801045898<br/>
-E-Mail:2801045898@qq.com<br/>
-HaGeSea@outlook.com<br/>
-
-捐赠(Donate)
-===========================================================
-![AliPay](https://github.com/seaase/ApkModifier/blob/master/alipay.png)<br/>
-![AliPay](https://github.com/seaase/ApkModifier/blob/master/weichat.png)<br/>
-如果愿意，你可以对我捐赠，我也会更加有动力来开发和完善本软件。<br/>
-如果没有这些，你可以下载[ApkModifier PRO ](http://pan.baidu.com/s/1eRFakvw)安装后打开，点击广告。以此来支持开发者<br/>
-
