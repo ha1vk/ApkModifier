@@ -32,7 +32,7 @@ ApkModifier 使用中常见问题:
 ==========================================================================================
 [教程视频](http://pan.baidu.com/s/1qXQUiLI)
 
-开放部分源代码
+开放部分源代码(Open Source)
 ==========================================================================================
 [Elf-Editor](https://github.com/seaase/Elf-Editor)<br/>
 [Arsc-Editor](https://github.com/seaase/ArscEditor)<br/>
