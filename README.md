@@ -7,7 +7,7 @@ HaGeSea@outlook.com<br/>
 捐赠(Donate)
 ===========================================================
 支付宝(AliPay)<br/>
-![AliPay](https://pan.baidu.com/s/17DmswX9b4CfTqGAvWJs8iA)<br/>
+![AliPay](https://thumbnail0.baidupcs.com/thumbnail/be6383fde43bc6bd1251171fd08f9862?fid=1194832007-250528-1111852083464621&time=1520740800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-VhrpYNaiWI1eW0XBiSYr%2Fmk5P3k%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=1612316206306429248&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)<br/>
 微信(WeiChat Pay)<br/>
 ![WeChatPay](https://github.com/seaase/ApkModifier/blob/master/weichat.png)<br/>
 如果愿意，你可以对我捐赠，我也会更加有动力来开发和完善本软件。<br/>
