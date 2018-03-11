@@ -232,7 +232,7 @@ ApkModifier 使用中常见问题:
 [v3.3.2](http://pan.baidu.com/s/1c1YmQp6)<br/>
 1.修复Bug<br/>
 
-[v3.4](https://pan.baidu.com/s/1RAbOtPKdVaQAaw45eGvo3Q)<br/>
+[v3.4](https://pan.baidu.com/s/11siIzBFlBdpKiGcN_VttDA)<br/>
 1.AXML字符串常量池添加了对应的属性名显示同时去除一些不可编辑的属性<br/>
 2.修复克隆时出现的EOFException问题<br/>
 3.使用腾讯Bugly自动上传崩溃错误(本软件所需的位置信息以其他是供Bugly和DataEye这些数据统计网用的)<br/>
