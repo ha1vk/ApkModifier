@@ -232,6 +232,15 @@ ApkModifier 使用中常见问题:
 [v3.3.2](http://pan.baidu.com/s/1c1YmQp6)<br/>
 1.修复Bug<br/>
 
+[v3.4](https://pan.baidu.com/s/1RAbOtPKdVaQAaw45eGvo3Q)<br/>
+1.AXML字符串常量池添加了对应的属性名显示同时去除一些不可编辑的属性<br/>
+2.修复克隆时出现的EOFException问题<br/>
+3.使用腾讯Bugly自动上传崩溃错误(本软件所需的位置信息以其他是供Bugly和DataEye这些数据统计网用的)<br/>
+4.添加了Apk的选项对话框<br/>
+5.添加了XML翻译模式(自动寻找出有字符串可编辑的xml文件)<br/>
+6.克隆xml文件时根据文件头判断是否是xml文件，从而实现混资源淆过的apk能成功克隆<br/>
+7.修复一些小错误<br/>
+
 帮助翻译
 ==========================================================
 如果你愿意，你可以帮作者翻译，语言文件在这[点击下载](http://pan.baidu.com/s/1c1Z8LK8)
