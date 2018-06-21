@@ -244,6 +244,11 @@ ApkModifier 使用中常见问题:
 [v3.4.2](https://pan.baidu.com/s/1s_AxS_BJeODzTuk2rxZp4w)<br/>
 1.修复部分崩溃<br/>
 
+[v3.5](https://pan.baidu.com/s/1sQzE9kQxZFlcmbzKFTQIIQ)<br/>
+1.修复部分问题
+2.增加越南语言的支持
+3.减小安装包体积
+
 帮助翻译
 ==========================================================
 如果你愿意，你可以帮作者翻译，语言文件在这[点击下载](https://pan.baidu.com/s/1UdAQWMmCraVMxtJQ0snBUw)
