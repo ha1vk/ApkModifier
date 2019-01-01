@@ -249,9 +249,16 @@ ApkModifier 使用中常见问题:
 2.增加越南语言的支持<br/>
 3.减小安装包体积<br/>
 
+[v3.6](https://pan.baidu.com/s/1Dw5tfMJX4lIfDqx8fnypXQ)<br/>
+1.修复oat、odex、vdex、art转dex失败的问题<br/>
+2.修复res资源混淆后某些软件无法使用的问题<br/>
+3.界面细节优化<br/>
+4.修复某些apk因签名问题签名后仍不能安装的问题<br/>
+5.改进zipalign<br/>
+
 帮助翻译
 ==========================================================
-如果你愿意，你可以帮作者翻译，语言文件在这[点击下载](https://pan.baidu.com/s/1UdAQWMmCraVMxtJQ0snBUw)
+如果你愿意，你可以帮作者翻译，语言文件在这[点击下载](https://pan.baidu.com/s/1KgczyJH-gUDGgDt3Geppyw)
 
 作者的其他作品
 ==========================================================
